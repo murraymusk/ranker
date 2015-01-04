@@ -10,7 +10,7 @@ Model
 
 
 High level
-  Unbundling Google Spreadsheets
+  Unbundling Google Spreadsheets --> This is probably what it is. Though i need to try the polling apps
   Private Polling?
   
 
@@ -20,3 +20,6 @@ TODO
   Get it designed
   Launch it
   Build the mobile app
+
+
+# WILL CODE FOR REAL TOMORROW :)
