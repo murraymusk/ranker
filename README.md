@@ -23,3 +23,4 @@ TODO
 
 
 # WILL CODE FOR REAL TOMORROW :)
+# Very productive day coming up w list of projects...will start tomorrow
